@@ -32,5 +32,5 @@ Python 3
 
 
 ## Reference
-...https://en.wikipedia.org/wiki/Mixture_model
-...https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm
+https://en.wikipedia.org/wiki/Mixture_model  
+https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm  
